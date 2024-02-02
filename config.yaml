@@ -1,0 +1,4 @@
+train: C:/Users/aashr/OneDrive/Desktop/LicensePlateDetection/data
+val: C:/Users/aashr/OneDrive/Desktop/LicensePlateDetection/data
+nc: 2
+names: ['license-plate', 'vehicle']
